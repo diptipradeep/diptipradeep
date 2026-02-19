@@ -6,7 +6,7 @@ Open Source Contributor & Web Developer preparing for Outreachy 2026.
 
 ## 🔹 Open Source Summary
 - 24 total Pull Requests
-- 20 merged successfully
+- 22 merged successfully
 - Contributions in Web, Docs, JavaScript, TypeScript
 
 ---
