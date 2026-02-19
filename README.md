@@ -12,8 +12,7 @@ Open Source Contributor & Web Developer preparing for Outreachy 2026.
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript  
-- TypeScript  
+- HTML, CSS, JavaScript   
 - Git & GitHub  
 - Documentation
 
