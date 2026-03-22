@@ -1,13 +1,13 @@
 # Heyoo Guysss , I'm Dipti 👋
 
-Open Source Contributor & Web Developer preparing for Outreachy 2026.
+Open Source Contributor & Web Developer.
 
 ---
 
 ## 🔹 Open Source Summary
 - 26 total Pull Requests
 - 23 merged successfully
-- Contributions in Web, Docs, JavaScript, TypeScript
+- Contributions in Web, Docs, JavaScript.
 
 ---
 
@@ -15,11 +15,6 @@ Open Source Contributor & Web Developer preparing for Outreachy 2026.
 - HTML, CSS, JavaScript   
 - Git & GitHub  
 - Documentation
-
----
-
-## 🎯 Current Focus
-Contributing consistently and securing an Outreachy internship in 2026.
 
 ---
 
